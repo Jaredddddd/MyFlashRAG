@@ -1,0 +1,2 @@
+# MyFlashRAG
+修改了FlashRAG的代码可以在实验室的123服务器上跑起来
